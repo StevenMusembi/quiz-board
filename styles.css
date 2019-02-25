@@ -22,5 +22,7 @@ div {
 p {
   border-style: none;
   height: auto;
+  border-color: none;
+  
 
 }
