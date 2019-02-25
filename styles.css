@@ -16,4 +16,5 @@ body {
 div {
   overflow: hidden;
   border-width: thin;
+  padding-top: 10px
 }
