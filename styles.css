@@ -17,4 +17,9 @@ div {
   overflow: hidden;
   border-width: thin;
   padding-top: 10px
+
+}
+p {
+  border-style: none;
+
 }
