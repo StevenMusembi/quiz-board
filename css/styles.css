@@ -1,0 +1,28 @@
+h1 {
+  font-style: normal;
+  text-align: center;
+  font-family: sans-serif;
+  text-shadow: 3px 2px
+}
+h2 {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 2em
+}
+body {
+  background-image: url(https://images.unsplash.com/photo-1543966888-6e858b90d30d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=710&q=80);
+  border: 6em;
+}
+div {
+  overflow: hidden;
+  border-width: thin;
+  padding-top: 10px
+
+}
+p {
+  border-style: none;
+  height: auto;
+  border-color: none;
+  
+
+}
